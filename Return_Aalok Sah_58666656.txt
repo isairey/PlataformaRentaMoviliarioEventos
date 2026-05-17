@@ -1,0 +1,19 @@
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+                         HAMRO RENTAL SHOP NEPAL (Return Bill)                         
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Returned By: Aalok Sah
+Date: Mon Sep  4 12:09:07 2023
+
+Item Name 		     Brand Name 		 Rented Quantity 	 Price
+Gala Banquet Chair            Regal Seating    			3		 $60
+Crystal Glassware Set         Opulent Dining   			5		 $500
+Luxe Event Tent               Prestige Shelters			4		 $320
+
+----------------------------------------------------------------------------------------
+ 								 Renting Charge: $880
+ 								           Fine: $176
+ 								          Total: $1056
+----------------------------------------------------------------------------------------

@@ -1,0 +1,10 @@
+1,Luxe Event Tent              ,Prestige Shelters,80 ,21
+2,Elegance Dining Table        ,Royal Furnishings,50 ,20
+3,Gala Banquet Chair           ,Regal Seating    ,20 ,18
+4,Deluxe Linen Set             ,Elegant Touch    ,12 ,20
+5,Crystal Glassware Set        ,Opulent Dining   ,100,22
+6,GrooveFlex Dance Floor       ,PartyGroove      ,110,20
+7,SonicVoice Speaker System    ,AudioWave Pro    ,80 ,20
+8,Lumina Decor Lights          ,Luminex Decor    ,20 ,20
+9,StarStage Performance Stage  ,StarSet Stages   ,70 ,20
+10,DreamBackdrop Photo Backdrop,Enchanted Moments,10 ,20
