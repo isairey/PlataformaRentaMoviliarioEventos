@@ -226,25 +226,7 @@ El sistema fue diseñado para:
 
 ---
 
-# 📂 Estructura del proyecto
 
-```bash
-LuxuryEventRentalSystem/
-│
-├── admin/                    # Panel administrativo
-├── inventory/                # Gestión de productos
-├── reservations/             # Sistema de reservaciones
-├── customer/                 # Módulo cliente
-├── assets/                   # Recursos frontend
-├── database/                 # Scripts SQL
-├── uploads/                  # Imágenes de productos
-├── includes/                 # Configuración y conexión
-├── index.php                 # Página principal
-├── README.md
-└── LICENSE
-```
-
----
 
 # ⚡ Instalación
 
@@ -263,7 +245,7 @@ LuxuryEventRentalSystem/
 ## 1️⃣ Clonar repositorio
 
 ```bash
-git clone https://github.com/isairey/LuxuryEventRentalSystem.git
+git clone https://github.com/isairey/PlataformaRentaMoviliarioEventos.git
 ```
 
 ---
@@ -273,7 +255,7 @@ git clone https://github.com/isairey/LuxuryEventRentalSystem.git
 Copiar proyecto hacia:
 
 ```bash
-xampp/htdocs/LuxuryEventRentalSystem/
+xampp/htdocs/PlataformaRentaMoviliarioEventos/
 ```
 
 ---
@@ -322,7 +304,7 @@ define('DB_NAME','luxury_event_rental');
 Abrir:
 
 ```bash
-http://localhost/LuxuryEventRentalSystem/
+http://localhost/PlataformaRentaMoviliarioEventos/
 ```
 
 ---
@@ -356,33 +338,7 @@ http://localhost/LuxuryEventRentalSystem/
 
 ---
 
-# 📸 Vista previa
 
-## 🖥️ Interfaces del sistema
-
-<div align="center">
-
-### 🎪 Página principal
-![Home](https://dummyimage.com/1200x600/4a148c/ffffff&text=Luxury+Event+Rental)
-
-### 🪑 Catálogo de productos
-![Catalog](https://dummyimage.com/1200x600/6a1b9a/ffffff&text=Event+Furniture+Catalog)
-
-### 📅 Sistema de reservaciones
-![Reservations](https://dummyimage.com/1200x600/7b1fa2/ffffff&text=Reservations+System)
-
-### 👥 Gestión de clientes
-![Customers](https://dummyimage.com/1200x600/8e24aa/ffffff&text=Customer+Management)
-
-### 📊 Dashboard administrativo
-![Dashboard](https://dummyimage.com/1200x600/4a148c/ffffff&text=Admin+Dashboard)
-
-### 📦 Gestión de inventario
-![Inventory](https://dummyimage.com/1200x600/6a1b9a/ffffff&text=Inventory+Management)
-
-</div>
-
----
 
 # 🧠 Objetivos del proyecto
 
